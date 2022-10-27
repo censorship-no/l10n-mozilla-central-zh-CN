@@ -1,5 +1,5 @@
-# Mozilla l10n-central - Czech (cs) localization
+# Mozilla l10n-central - Spanish (es-ES) localization
 
-**The actual mirrored content is here in the [_default_ branch](https://github.com/MozillaCZ/l10n-mozilla-central-cs/tree/default).**
+**The actual mirrored content is here in the [_default_ branch](https://github.com/censorship-no/l10n-mozilla-central-es-ES/tree/default).**
 
-[![Update mirror](https://github.com/MozillaCZ/l10n-mozilla-central-cs/actions/workflows/update-mirror.yml/badge.svg?branch=automation)](https://github.com/MozillaCZ/l10n-mozilla-central-cs/actions/workflows/update-mirror.yml)
+[![Update mirror](https://github.com/censorship-no/l10n-mozilla-central-es-ES/actions/workflows/update-mirror.yml/badge.svg?branch=automation)](https://github.com/censorship-no/l10n-mozilla-central-es-ES/actions/workflows/update-mirror.yml)
